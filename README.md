@@ -1,4 +1,4 @@
-# Machine Learning classifica o com SKLearn
+# Machine Learning
 
 <p>Durante este curso tive a oportunidade de aprender sobre técnicas de Machine Learning para solucionar problemas de classificação. Foi uma experiência muito valiosa e gostaria de compartilhar um pouco do que aprendi.
 
